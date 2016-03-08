@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+	<title>Otávio Pires's Blog</title>
+	<link href="http://otaviopires.github.io/blog/atom.xml" rel="self"/>
+	<link href="http://otaviopires.github.io/blog"/>
+	<updated>2016-03-08T20:02:14-03:00</updated>
+	<id>http://otaviopires.github.io/blog</id>
+	<author>
+		<name>Otávio Pires</name>
+		<email>otavio.silva.pires@gmail.com</email>
+	</author>
+
+	
+		<entry>
+			<title>Otávio Pires, Launches Site</title>
+			<link href="http://otaviopires.github.io/blog/2015/03/06/otavio-pires-site-launched"/>
+			<updated>2015-03-06T00:00:00-03:00</updated>
+			<id>http://otaviopires.github.io//blog/2015/03/06/otavio-pires-site-launched</id>
+			<content type="html">&lt;p&gt;Well. Finally got around to putting this old website together. Neat thing about it - powered by &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll&lt;/a&gt; and I can use Markdown to author my posts. It actually is a lot easier than I thought it was going to be.&lt;/p&gt;
+</content>
+		</entry>
+	
+
+</feed>
