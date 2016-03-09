@@ -4,7 +4,7 @@
 	<title>Otávio Pires's Blog</title>
 	<link href="http://otaviopires.github.io/blog/atom.xml" rel="self"/>
 	<link href="http://otaviopires.github.io/blog"/>
-	<updated>2016-03-09T01:10:08-03:00</updated>
+	<updated>2016-03-09T01:38:19-03:00</updated>
 	<id>http://otaviopires.github.io/blog</id>
 	<author>
 		<name>Otávio Pires</name>
@@ -13,12 +13,12 @@
 
 	
 		<entry>
-			<title>Video aulas de SCRUM em português</title>
+			<title>Vídeo-aulas de SCRUM em Português</title>
 			<link href="http://otaviopires.github.io/blog/2016/03/09/scrum"/>
 			<updated>2016-03-09T00:00:00-03:00</updated>
 			<id>http://otaviopires.github.io//blog/2016/03/09/scrum</id>
 			<content type="html">&lt;h2&gt;Visão geral&lt;/h2&gt;
-&lt;p&gt;Esse video aqui é muito bom para uma visão geral, um “handshake” com o framework, entender melhor do que se trata, se é útil pra você, se irá se encaixar nas suas necessidades e tudo mais…&lt;/p&gt;
+&lt;p&gt;Esse vídeo &lt;a href=&quot;https://www.youtube.com/watch?v=XfvQWnRgxG0&quot;&gt;aqui&lt;/a&gt; é muito bom para uma visão geral, um “handshake” com o framework, entender melhor do que se trata, se é útil pra você, se irá se encaixar nas suas necessidades e tudo mais…&lt;/p&gt;
 
 &lt;!-- [![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/XfvQWnRgxG0/0.jpg)](https://www.youtube.com/watch?v=XfvQWnRgxG0)
  --&gt;
@@ -26,7 +26,8 @@
 
 &lt;p&gt; &lt;/p&gt;
 &lt;h2&gt;Curso aprofundado&lt;/h2&gt;
-&lt;p&gt;Já esse vídeo aqui é o início de uma série, em formato de curso mesmo, que vai te dar uma visão aprofundada do assunto, te pegando pela mão e explicando o que é necessário para aplicar o SCRUM e já começar a usá-lo rapidamente. Porque afinal de contas se você está estudando isso é porquê está com muita pressa pra realizar algum projeto, não é?&lt;/p&gt;
+&lt;p&gt;Já esse outro vídeo &lt;a href=&quot;http://www.youtube.com/watch?v=iMS5U0EiGFs&quot;&gt;aqui&lt;/a&gt;
+ é o início de uma série, em formato de curso mesmo, que vai te dar uma visão aprofundada do assunto, te pegando pela mão e explicando o que é necessário para aplicar o SCRUM e já começar a usá-lo rapidamente. Porque afinal de contas se você está estudando isso é porquê está com muita pressa pra realizar algum projeto, não é?&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;http://www.youtube.com/watch?v=iMS5U0EiGFs&quot;&gt;Aula 1 - Abertura do Curso de Scrum - 100 Lero Lero&lt;/a&gt;&lt;/p&gt;
 
