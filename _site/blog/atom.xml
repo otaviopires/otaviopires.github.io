@@ -4,7 +4,7 @@
 	<title>Otávio Pires's Blog</title>
 	<link href="http://otaviopires.github.io/blog/atom.xml" rel="self"/>
 	<link href="http://otaviopires.github.io/blog"/>
-	<updated>2016-03-08T21:26:19-03:00</updated>
+	<updated>2016-03-09T00:47:46-03:00</updated>
 	<id>http://otaviopires.github.io/blog</id>
 	<author>
 		<name>Otávio Pires</name>
@@ -47,9 +47,9 @@ Fortune-seekers can rarely sustain their passion through the hard times. Success
 	
 		<entry>
 			<title>Otávio Pires, Launches Site</title>
-			<link href="http://otaviopires.github.io/blog/2015/03/06/otavio-pires-site-launched"/>
-			<updated>2015-03-06T00:00:00-03:00</updated>
-			<id>http://otaviopires.github.io//blog/2015/03/06/otavio-pires-site-launched</id>
+			<link href="http://otaviopires.github.io/blog/2016/03/06/otavio-pires-site-launched"/>
+			<updated>2016-03-06T00:00:00-03:00</updated>
+			<id>http://otaviopires.github.io//blog/2016/03/06/otavio-pires-site-launched</id>
 			<content type="html">&lt;p&gt;Well. Finally got around to putting this old website together. Neat thing about it - powered by &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll&lt;/a&gt; and I can use Markdown to author my posts. It actually is a lot easier than I thought it was going to be.&lt;/p&gt;
 </content>
 		</entry>
