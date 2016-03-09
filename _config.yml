@@ -1,4 +1,4 @@
   name: Otávio Pires
   markdown: kramdown
-  
+  url: http://otaviopires.github.io
   permalink: /blog/:year/:month/:day/:title
