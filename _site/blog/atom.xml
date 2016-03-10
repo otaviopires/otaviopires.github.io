@@ -4,13 +4,44 @@
 	<title>Otávio Pires's Blog</title>
 	<link href="http://otaviopires.github.io/blog/atom.xml" rel="self"/>
 	<link href="http://otaviopires.github.io/blog"/>
-	<updated>2016-03-09T20:17:43-03:00</updated>
+	<updated>2016-03-10T11:11:31-03:00</updated>
 	<id>http://otaviopires.github.io/blog</id>
 	<author>
 		<name>Otávio Pires</name>
 		<email>otavio.silva.pires@gmail.com</email>
 	</author>
 
+	
+		<entry>
+			<title>What I did today?</title>
+			<link href="http://otaviopires.github.io/blog/2016/03/10/what-I-did-today"/>
+			<updated>2016-03-10T00:00:00-03:00</updated>
+			<id>http://otaviopires.github.io//blog/2016/03/10/what-I-did-today</id>
+			<content type="html">&lt;h2 id=&quot;pancakes&quot;&gt;1 - Pancakes!&lt;/h2&gt;
+&lt;p&gt;Lovely fast pancakes on the blender, with a orange-caramen. Yummy. Awesome way to start a day;&lt;/p&gt;
+
+&lt;h2 id=&quot;english-class&quot;&gt;2 - English class;&lt;/h2&gt;
+&lt;p&gt;My first class with my new student. She’s a very nice teacher tutoring for little kids, who wants to enhance her english skills, and master conversation ability. 
+She’s a very nice person, very attentive, fast-learner and hard-working.
+I’m looking forward to keep helping her grow, and also growing with her, because a teacher learns with the students as much as teaches.&lt;/p&gt;
+
+&lt;h2 id=&quot;ajust-the-corridor-router&quot;&gt;3 - Ajust the corridor router;&lt;/h2&gt;
+&lt;p&gt;I share internet with some neighbor friends, and I’m trying to find the best position for a wireless router to serve as much as clients as possible, without comprimising its quality.&lt;/p&gt;
+
+&lt;h2 id=&quot;ajust-my-home-router&quot;&gt;4 - Ajust my home router;&lt;/h2&gt;
+&lt;p&gt;Just organizing the cables and fixing it to the wall.&lt;/p&gt;
+
+&lt;h2 id=&quot;level-53-at-tetris-battle&quot;&gt;5 - Level 53 at Tetris Battle;&lt;/h2&gt;
+&lt;p&gt;I’m getting better! It’s a attention game for, I have to be very focused, like an athelete, follow my extints, instead of trying to think to much.
+I think tetris a game for people with a logical mind, who enjoy solving problems and getting things done perfecting. I love when I’m able to combine all those peaces beautifully, making worderful combinations.
+And when I fuck it up and mess something it’s really upsseting for me. But, as it is a very fast game, emotions don’t have a place in the matches, I have to keep a very calm manner, and play my best each time.
+It has I lot of lessions. I could keep talking about it all day. As I read in some book about Buddha: “If someone keeps their eyes wide open, they might see a teaching in everything”&lt;/p&gt;
+
+&lt;h2 id=&quot;study-scrum&quot;&gt;6 - Study Scrum;&lt;/h2&gt;
+&lt;p&gt;I’m negociating a freelancer project to make some UI/UX adjusts in a social network website. I’ve called a friend to help me, and we are planning to use Scrum as a methodology to work on this project.
+Right now I’m trying to come up with the inicial documentation, schedule, and budget for the project.&lt;/p&gt;
+</content>
+		</entry>
 	
 		<entry>
 			<title>Estudando Scrum</title>
