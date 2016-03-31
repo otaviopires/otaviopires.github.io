@@ -4,13 +4,22 @@
 	<title>Otávio Pires's Blog</title>
 	<link href="http://otaviopires.github.io/blog/atom.xml" rel="self"/>
 	<link href="http://otaviopires.github.io/blog"/>
-	<updated>2016-03-10T11:11:31-03:00</updated>
+	<updated>2016-03-31T02:01:41-03:00</updated>
 	<id>http://otaviopires.github.io/blog</id>
 	<author>
 		<name>Otávio Pires</name>
 		<email>otavio.silva.pires@gmail.com</email>
 	</author>
 
+	
+		<entry>
+			<title>Azat</title>
+			<link href="http://otaviopires.github.io/blog/2016/03/11/azat"/>
+			<updated>2016-03-11T00:00:00-03:00</updated>
+			<id>http://otaviopires.github.io//blog/2016/03/11/azat</id>
+			<content type="html">
+</content>
+		</entry>
 	
 		<entry>
 			<title>What I did today?</title>
