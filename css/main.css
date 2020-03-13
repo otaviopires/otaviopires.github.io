@@ -4,6 +4,10 @@ html {
     font-family: 'Consolas', 'monaco', 'monospace';
 }
 
+::selection {
+  background: #000;
+}
+
 body {
     margin: 60px auto;
     width: 70%;
