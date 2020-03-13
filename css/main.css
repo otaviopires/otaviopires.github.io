@@ -1,6 +1,6 @@
 html {
     background-color: #1b1b1b;
-    color: white;
+    color: darkgrey;
     font-family: 'Consolas', 'monaco', 'monospace';
 }
 
@@ -24,8 +24,9 @@ a {
 a:hover {
     text-decoration: underline;
 }
-h1 {
+h1,h2,h3,h4,h5,strong {
     font-size: 3em;
+    color: #fff;
 }
 p {
     font-size: 1.1em;
