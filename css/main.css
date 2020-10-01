@@ -77,8 +77,8 @@ blockquote p {
 
 .wrapper {
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-    grid-template-rows: repeat(6, 360px);
+    grid-template-columns: repeat(auto-fit, minmax(500px, 1fr));
+    grid-template-rows: repeat(3, 350px);
 }
 
 .item {
