@@ -14,11 +14,11 @@ Jekyll requires the following:
 
 1. Install all prerequisites.  
 
-2. Install the jekyll and bundler gems.  
-`gem install jekyll bundler`  
-
-3. Change into your new directory.  
+2. Change into the project directory.  
 `cd otaviopires.github.io`  
+
+3. Install the jekyll and bundler gems.  
+`gem install jekyll bundler`  
 
 4. Build the site and make it available on a local server.  
 `bundle exec jekyll serve`  
